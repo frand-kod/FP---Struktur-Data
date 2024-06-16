@@ -26,4 +26,5 @@ using namespace std;
 int main(){
 
     banner();
+    cout<<"hasil uji ";
 }
