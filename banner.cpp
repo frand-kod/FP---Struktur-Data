@@ -12,11 +12,11 @@ void banner(){
     cout <<"3. Perbaharui Data Kendaran Terparkir "<<endl;
     cout <<"4. Hapus Data Kendaraan "<<endl;
     
-    cout <<"| -- Menu Tambahan --| "<<endl;
+    cout <<"| ------------ Menu Tambahan ----------------------| "<<endl;
     cout <<"5. Cari Kendaran berdasarkan jenis Kendaran"<<endl;
     cout <<"6. Cari Kendaraan berdasarkan Nama Pemilik"<<endl;
-    cout <<"7. Urutkan ber"<<endl;
-
+    cout <<"7. Urutkan Data Parkir"<<endl;
+    cout <<"8.  "<<endl;
 
 
 }
